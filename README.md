@@ -51,7 +51,9 @@
 
 2. กดเข้าไปที่ไฟล์ Block Destory Installer.exe จะได้ดังรูป
 
+![image](https://user-images.githubusercontent.com/56310456/81341319-89103600-90db-11ea-807a-8c4b3a31bdc4.png)
 
+3. กดดาวน์โหลดไฟล์ จะขึ้นดังรูป ให้ตั้งตำแหน่งไฟล์ตามที่ต้องการ
 
 # Project Review (วีดีโอสาถิตการดาวน์โหลด + เล่นเกม)
 
