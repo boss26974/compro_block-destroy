@@ -25,6 +25,8 @@
 - Compliler (ตัวรันโปรแกรม)
 
   - CodeBlocks
+  
+  - SDL2
 
 - Main Program Language (ภาษาที่ใช้เป็นหลัก)
 
