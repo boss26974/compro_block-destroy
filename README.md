@@ -47,8 +47,6 @@
 
 1. เข้าไปยัง Github ตามลิ้งค์นี้ https://github.com/boss26974/compro_block-destroy
 
-![image](https://user-images.githubusercontent.com/56310456/81340240-b5c34e00-90d9-11ea-847c-3e1e7c513f75.png)
-
 
 
 # Project Review (วีดีโอสาถิตการดาวน์โหลด + เล่นเกม)
