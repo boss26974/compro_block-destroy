@@ -77,7 +77,7 @@
 
 - ลิ้งค์วีดีโอสาถิตการดาวน์โหลด + เล่นเกม
 
-![image](https://user-images.githubusercontent.com/56310456/81343710-ae9f3e80-90df-11ea-93cc-c96d40a4d418.png)
+![image](https://user-images.githubusercontent.com/56310456/81346964-7569cd00-90e5-11ea-93c1-2d02ed244c6e.png)
 
 # Member of group (สมาชิกของกลุ่ม)
 
