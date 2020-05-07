@@ -47,7 +47,7 @@
 
 1. เข้าไปยัง Github ตามลิ้งค์นี้ https://github.com/boss26974/compro_block-destroy จะได้ดังรูป
 
-![image](https://user-images.githubusercontent.com/56310456/81340800-a98bc080-90da-11ea-8dd2-99c47be2e47c.png)
+![image](https://user-images.githubusercontent.com/56310456/81346055-ced0fc80-90e3-11ea-967d-209d5842fbc9.png)
 
 2. กดเข้าไปที่ไฟล์ Block Destroy Installer.exe จะได้ดังรูป
 
