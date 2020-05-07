@@ -45,11 +45,11 @@
 
 # How to install (วิธีการติดตั้ง)
 
-1. เข้าไปยัง Github ตามลิ้งค์นี้ https://github.com/boss26974/compro_block-destroy
+1. เข้าไปยัง Github ตามลิ้งค์นี้ https://github.com/boss26974/compro_block-destroy จะได้ดังรูป
 
 ![image](https://user-images.githubusercontent.com/56310456/81340800-a98bc080-90da-11ea-8dd2-99c47be2e47c.png)
 
-2. กดเข้าไปที่ไฟล์ Executable
+2. กดเข้าไปที่ไฟล์ Executable จะได้ดังรูป
 
 
 
