@@ -53,9 +53,9 @@
 
 ![image](https://user-images.githubusercontent.com/56310456/81341319-89103600-90db-11ea-807a-8c4b3a31bdc4.png)
 
-3. กดดาวน์โหลดไฟล์ที่ View raw จะขึ้นดังรูป ให้ตั้งตำแหน่งไฟล์ตามที่ต้องการ
+3. กดดาวน์โหลดไฟล์ที่ปุ่ม view Raw เมื่อดาว์โหลดเสร็จ จะขึ้น setup อยู่ที่มุมซ้ายล่าง ดังรูป
 
-
+![image](https://user-images.githubusercontent.com/56310456/81341657-1b183e80-90dc-11ea-9b64-0b653c69898e.png)
 
 # Project Review (วีดีโอสาถิตการดาวน์โหลด + เล่นเกม)
 
