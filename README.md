@@ -24,7 +24,7 @@
 
 -  Compliler (ตัวรันโปรแกรม)
 
-  -  CodeBlocks
+  - CodeBlocks
   
 -  Main Program Language (ภาษาที่ใช้เป็นหลัก)
 
