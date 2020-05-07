@@ -45,7 +45,9 @@
 
 # How to install (วิธีการติดตั้ง)
 
-1. เข้าไปยัง Github ตามลิ้งค์นี้
+1. เข้าไปยัง Github ตามลิ้งค์นี้ https://github.com/boss26974/compro_block-destroy
+
+
 
 
 
