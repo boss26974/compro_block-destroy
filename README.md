@@ -67,7 +67,7 @@
 
 6. เมื่อคลิกเข้าไปแล้ว จะเห็นไอคอนเกมชื่อ Block Destroy ให้ทำการคลิกเข้าไป
 
-![image](https://user-images.githubusercontent.com/56310456/81342989-64698d80-90de-11ea-90b3-8808afca1a0e.png)
+![image](https://user-images.githubusercontent.com/56310456/81346738-ff656600-90e4-11ea-91a5-f13c830ef62f.png)
 
 7. เมื่อคลิกเข้าไปแล้ว ก็สามารถเริ่มเล่นเกมได้เลยทันที
 
