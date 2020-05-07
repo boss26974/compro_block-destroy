@@ -49,7 +49,7 @@
 
 ![image](https://user-images.githubusercontent.com/56310456/81340800-a98bc080-90da-11ea-8dd2-99c47be2e47c.png)
 
-2. กดเข้าไปที่ไฟล์ Executable จะได้ดังรูป
+2. กดเข้าไปที่ไฟล์ Block Destory Installer.exe จะได้ดังรูป
 
 
 
