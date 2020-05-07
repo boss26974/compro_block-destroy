@@ -57,7 +57,7 @@
 
 ![image](https://user-images.githubusercontent.com/56310456/81341657-1b183e80-90dc-11ea-9b64-0b653c69898e.png)
 
-4. คลิ้กไปที่ setup ที่โหลดเสร็จแล้ว จะขึ้นการติดตั้งดังรูป ให้เลือกตำแหน่งติดตั้งที่ต้องการ แล้วกด Extract
+4. คลิกไปที่ setup ที่โหลดเสร็จแล้ว จะขึ้นการติดตั้งดังรูป ให้เลือกตำแหน่งติดตั้งที่ต้องการ แล้วกด Extract
 
 ![image](https://user-images.githubusercontent.com/56310456/81341993-adb8dd80-90dc-11ea-8679-706ad490a766.png)
 
@@ -65,7 +65,11 @@
 
 ![image](https://user-images.githubusercontent.com/56310456/81342711-dee5dd80-90dd-11ea-9463-541ae8f1aad1.png)
 
-6. เมื่อคลิ้กเข้าไปแล้ว จะเห็นไอคอนเกมชื่อ Block Destroy ให้ทำการคลิกเข้าไป
+6. เมื่อคลิกเข้าไปแล้ว จะเห็นไอคอนเกมชื่อ Block Destroy ให้ทำการคลิกเข้าไป
+
+![image](https://user-images.githubusercontent.com/56310456/81342989-64698d80-90de-11ea-90b3-8808afca1a0e.png)
+
+7. เมื่อคลิกเข้าไปแล้ว ก็สามารถเริ่มเล่นเกมได้เลยทันที
 
 
 
