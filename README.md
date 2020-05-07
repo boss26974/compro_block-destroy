@@ -23,9 +23,7 @@
 # Tools (เครื่องมือที่ใช้)
 
 -  Compliler (ตัวรันโปรแกรม)
-
-  - CodeBlocks
-  
+- CodeBlocks
 -  Main Program Language (ภาษาที่ใช้เป็นหลัก)
 
 # How to play (วิธีการเล่น)
