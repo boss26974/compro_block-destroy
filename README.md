@@ -55,7 +55,7 @@
 
 3. กดดาวน์โหลดไฟล์ที่ปุ่ม view Raw เมื่อดาว์โหลดเสร็จ จะขึ้น setup อยู่ที่มุมซ้ายล่าง ดังรูป
 
-![image](https://user-images.githubusercontent.com/56310456/81341657-1b183e80-90dc-11ea-9b64-0b653c69898e.png)
+![image](https://user-images.githubusercontent.com/56310456/81346314-4a32ae00-90e4-11ea-8a1e-d3a10c3afc17.png)
 
 4. คลิกไปที่ setup ที่โหลดเสร็จแล้ว จะขึ้นการติดตั้งดังรูป ให้เลือกตำแหน่งติดตั้งที่ต้องการ แล้วกด Extract
 
