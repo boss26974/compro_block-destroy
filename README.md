@@ -44,3 +44,11 @@
 
 # Member of group (สมาชิกของกลุ่ม)
 
+![193](https://user-images.githubusercontent.com/56310456/81300534-fd2de800-90a1-11ea-9811-4cb88acfb1df.jpg)
+
+ชื่อ (Name) : นายวชิรสิต ยี่ตัน
+
+ชั้นปี (Year) : 2
+
+รหัสนักศึกษา (Student ID) : 61070193
+
