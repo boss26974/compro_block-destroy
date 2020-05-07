@@ -44,5 +44,5 @@
 
 # Member of group (สมาชิกของกลุ่ม)
 
-![95490843_1819400361530320_6471500079860547584_o](https://user-images.githubusercontent.com/56310456/81297158-108a8480-909d-11ea-98c4-9c87797b39e1.jpg)
+
 
