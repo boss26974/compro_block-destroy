@@ -51,7 +51,7 @@
 
 2. กดเข้าไปที่ไฟล์ Block Destroy Installer.exe จะได้ดังรูป
 
-![image](https://user-images.githubusercontent.com/56310456/81341319-89103600-90db-11ea-807a-8c4b3a31bdc4.png)
+![image](https://user-images.githubusercontent.com/56310456/81346159-0049c800-90e4-11ea-8797-d69fa39a7962.png)
 
 3. กดดาวน์โหลดไฟล์ที่ปุ่ม view Raw เมื่อดาว์โหลดเสร็จ จะขึ้น setup อยู่ที่มุมซ้ายล่าง ดังรูป
 
