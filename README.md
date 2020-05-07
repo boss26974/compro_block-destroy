@@ -60,3 +60,10 @@
 
 -  รหัสนักศึกษา (Student ID) : 62070112
 
+![134](https://user-images.githubusercontent.com/56310456/81301515-5a766900-90a3-11ea-94ae-d075a604dda0.jpg)
+
+-  ชื่อ (Name) : นายพลัฏฐ์ วงศ์สิทธ์พรรุ่ง
+
+-  ชั้นปี (Year) : 1
+
+-  รหัสนักศึกษา (Student ID) : 62070134
