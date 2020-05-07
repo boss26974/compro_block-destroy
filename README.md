@@ -63,7 +63,7 @@
 
 5. เมื่อดาวน์โหลดเสร็จแล้ว จะขึ้นไฟล์ชื่อ Block Destroy ในตำแหน่งที่เราติดตั้ง ให้คลิกเข้าไป
 
-![image](https://user-images.githubusercontent.com/56310456/81342711-dee5dd80-90dd-11ea-9463-541ae8f1aad1.png)
+![image](https://user-images.githubusercontent.com/56310456/81346624-cd540400-90e4-11ea-9744-87cd97dc82e2.png)
 
 6. เมื่อคลิกเข้าไปแล้ว จะเห็นไอคอนเกมชื่อ Block Destroy ให้ทำการคลิกเข้าไป
 
