@@ -46,9 +46,17 @@
 
 ![193](https://user-images.githubusercontent.com/56310456/81300534-fd2de800-90a1-11ea-9811-4cb88acfb1df.jpg)
 
-ชื่อ (Name) : นายวชิรสิต ยี่ตัน
+-  ชื่อ (Name) : นายวชิรสิต ยี่ตัน
 
-ชั้นปี (Year) : 2
+-  ชั้นปี (Year) : 2
 
-รหัสนักศึกษา (Student ID) : 61070193
+-  รหัสนักศึกษา (Student ID) : 61070193
+
+![112](https://user-images.githubusercontent.com/56310456/81301059-c0162580-90a2-11ea-8ba3-487f60596865.jpg)
+
+-  ชื่อ (Name) : นายปภัส เงาธัมมะสกุล
+
+-  ชั้นปี (Year) : 1
+
+-  รหัสนักศึกษา (Student ID) : 62070112
 
