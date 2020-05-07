@@ -41,7 +41,7 @@
 
 -  ภาพจากการเล่น (Game footage)
 
-
+  ![96518946_523876354958067_5995931794422104064_n](https://user-images.githubusercontent.com/56310456/81338010-1d779a00-90d6-11ea-8831-fa93645d92fe.png)
 
 # How to install (วิธีการติดตั้ง)
 
