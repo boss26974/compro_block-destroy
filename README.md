@@ -59,7 +59,7 @@
 
 4. คลิกไปที่ setup ที่โหลดเสร็จแล้ว จะขึ้นการติดตั้งดังรูป ให้เลือกตำแหน่งติดตั้งที่ต้องการ แล้วกด Extract
 
-![image](https://user-images.githubusercontent.com/56310456/81341993-adb8dd80-90dc-11ea-8679-706ad490a766.png)
+![image](https://user-images.githubusercontent.com/56310456/81346527-a1d11980-90e4-11ea-8daa-0515cf170779.png)
 
 5. เมื่อดาวน์โหลดเสร็จแล้ว จะขึ้นไฟล์ชื่อ Block Destroy ในตำแหน่งที่เราติดตั้ง ให้คลิกเข้าไป
 
