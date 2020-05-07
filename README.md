@@ -38,7 +38,7 @@
 
 -  ภาพจากการเล่น (Game footage)
 
-# How to install (วิธีการเล่น)
+# How to install (วิธีการติดตั้ง)
 
 # Project Review (วีดีโอสาถิตการดาวน์โหลด + เล่นเกม)
 
