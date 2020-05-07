@@ -71,7 +71,7 @@
 
 7. เมื่อคลิกเข้าไปแล้ว ก็สามารถเริ่มเล่นเกมได้เลยทันที
 
-
+![image](https://user-images.githubusercontent.com/56310456/81343276-e78ae380-90de-11ea-8228-6d2decc8d924.png)
 
 # Project Review (วีดีโอสาถิตการดาวน์โหลด + เล่นเกม)
 
