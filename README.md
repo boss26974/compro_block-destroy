@@ -100,7 +100,7 @@ https://drive.google.com/file/d/1j-O5ff2zGIj7ELmqZI8uvzBM_40SidJ0/view?fbclid=Iw
 
 -  รหัสนักศึกษา (Student ID) : 62070112
 
-![134](![LINE_P20191207_231505725](https://user-images.githubusercontent.com/57059698/147997352-1b2340de-0969-4704-bd11-d5576265fece.jpg))
+![LINE_P20191207_231505725](https://user-images.githubusercontent.com/57059698/147997352-1b2340de-0969-4704-bd11-d5576265fece.jpg)
 
 -  ชื่อ (Name) : นายพลัฏฐ์ วงศ์สิทธิพรรุ่ง
 
